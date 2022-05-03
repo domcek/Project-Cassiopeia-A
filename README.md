@@ -29,6 +29,6 @@ Basic details on the function of the script is documented in the beginning of ea
 
 All figures of the paper are an output of Jupyter lab notebook “zenodo_casa_figures.ipynb”. Figure 9 is produced by Jupyter lab notebook “zenodo_casa_SED.ipynb”, which also contains values for Table.1.
 
-“./zenodo_casa_figures.ipynb”
+“./figures/zenodo_casa_figures.ipynb”
 
-“./zenodo_casa_SED.ipynb”
+“./figures/zenodo_casa_SED.ipynb”
