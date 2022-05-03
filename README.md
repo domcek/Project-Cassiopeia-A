@@ -25,10 +25,10 @@ Instruction for the order to run the project is provided in bash file “./Run.s
 
 Basic details on the function of the script is documented in the beginning of each script.
 
-## Figures and tables
+## Jupyter notebooks 
 
-All figures of the paper are an output of Jupyter lab notebook “zenodo_casa_figures.ipynb”. Figure 9 is produced by Jupyter lab notebook “zenodo_casa_SED.ipynb”, which also contains values for Table.1.
+All figures from the the publication are produced by Jupyter lab notebook “zenodo_casa_figures.ipynb”. Figure 9 is produced separately by Jupyter notebook “zenodo_casa_SED.ipynb”, which also contains values for Table.1.
 
-“./figures/zenodo_casa_figures.ipynb”
+“./zenodo_casa_figures.ipynb”
 
-“./figures/zenodo_casa_SED.ipynb”
+“./zenodo_casa_SED.ipynb”
